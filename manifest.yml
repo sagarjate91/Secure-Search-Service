@@ -1,0 +1,8 @@
+applications:
+- name: Secure-Search-Cloud
+path: target/Secure-Search-Cloud.jar
+domain: cfapps.io
+memory: 960M
+instances: 1
+  
+  
